@@ -7,6 +7,24 @@ A clean **Streamlit web interface** allows users to upload resumes and instantly
 
 ---
 
+
+![Resume-job-matching-system](banner.png)
+
+--- 
+
+![Resume-job-matching-system](banner1.png)
+
+---
+
+
+![Resume-job-matching-system](banner2.png)
+
+---
+
+![Resume-job-matching-system](banner3.png)
+
+---
+
 ## 🚀 Key Features
 
 - 📄 Upload resume in **PDF format**
